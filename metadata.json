@@ -1,0 +1,8 @@
+{
+  "name": "Orkestrasi SIMRS AI",
+  "description": "Next-Gen Hospital Management System using AI Agents for orchestration, patient data, and medical analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
